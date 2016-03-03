@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quibusexfontibu00burcgoog_0005.png"; bbox 0 0 2962 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 308 700 494">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 308 784 494">
+     <span class='ocr_line' id='line_1_1' title="bbox 151 308 700 494; baseline 0 -51"><span class='ocrx_word' id='word_1_1' title='bbox 151 308 299 447; x_wconf 35' lang='grc' dir='ltr'>ΛΜ</span> <span class='ocrx_word' id='word_1_2' title='bbox 322 352 500 494; x_wconf 54' lang='grc' dir='ltr'>ΜΘ,</span> <span class='ocrx_word' id='word_1_3' title='bbox 532 375 700 471; x_wconf 61' lang='lat'>651-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 376 900 910 1135">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 376 900 910 1135">
+     <span class='ocr_line' id='line_1_2' title="bbox 376 900 910 975; baseline -0.007 -12"><span class='ocrx_word' id='word_1_4' title='bbox 376 900 544 962; x_wconf 75' lang='lat' dir='ltr'><strong>Harvard</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 582 903 719 975; x_wconf 53' lang='lat' dir='ltr'>Oosspjz</span> <span class='ocrx_word' id='word_1_6' title='bbox 757 903 910 967; x_wconf 71' lang='lat' dir='ltr'>Library</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 491 990 788 1074; baseline -0.003 -29"><span class='ocrx_word' id='word_1_7' title='bbox 491 991 545 1054; x_wconf 85' lang='lat' dir='ltr'>By</span> <span class='ocrx_word' id='word_1_8' title='bbox 584 990 788 1074; x_wconf 56' lang='lat' dir='ltr'>Exchanffl)²</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 512 1076 773 1135; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 512 1076 773 1135; x_wconf 68' lang='lat' dir='ltr'><strong>85au.1ss96.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 382 2389 923 2489">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 382 2337 923 2489">
+     <span class='ocr_line' id='line_1_5' title="bbox 382 2389 923 2489; baseline 0.004 -32"><span class='ocrx_word' id='word_1_10' title='bbox 382 2391 474 2458; x_wconf 63' lang='lat' dir='ltr'>Res:</span> <span class='ocrx_word' id='word_1_11' title='bbox 503 2391 594 2458; x_wconf 82' lang='lat' dir='ltr'><strong>Prof.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 620 2389 746 2489; x_wconf 50' lang='lat' dir='ltr'>Dr3de</span> <span class='ocrx_word' id='word_1_13' title='bbox 771 2391 923 2459; x_wconf 83' lang='lat' dir='ltr'>Arnim.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1486 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1486 5010">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1486 5010; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1486 5010; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
